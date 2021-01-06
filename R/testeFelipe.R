@@ -30,7 +30,7 @@
 #' @examples
 #' 
 #' ##Page 202 - Design and Analysis of Experiments 8th by DOUGLAS C. MONTGOMERY: 
-#' testeFelipe(alpha=0.05,a=50,b=5,ate=50,betas=c(-20,20),sigma=25)
+#' testeFelipe(alpha=0.05,a=3,b=3,ate=5,betas=c(-20,20),sigma=25)
 #'
 #' @importFrom stats pf qf
 #'
